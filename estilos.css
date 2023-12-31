@@ -13,8 +13,8 @@ body {
 }
 
 header {
-    background-color: #3498db;
-    color: #fff;
+    background-color: #F5D2F2;
+    color: #6A6569;
     text-align: center;
     padding: 1em 0;
 }
@@ -45,14 +45,14 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 5px;
 }
 
 footer {
     text-align: center;
     padding: 1em 0;
-    background-color: #333;
+    background-color: #E409D0;
     color: #fff;
 }
 
